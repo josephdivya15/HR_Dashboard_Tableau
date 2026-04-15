@@ -1,1 +1,1 @@
-# HR_Dashboard_Tableau
+# Designed and developed an interactive HR dashboard in Tableau to analyze key workforce metrics, including employee job satisfaction, age-wise distribution, and attrition trends across multiple factors
